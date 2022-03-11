@@ -693,6 +693,10 @@ ul.borderXwidth li.active:before, ul.borderXwidth li.active:after
     color: #5e5e5e;
 }
 
+.svg-img{
+    margin-top: -100px;
+}
+
 @media screen and (max-width: 1024px){
 
     *{
@@ -709,6 +713,10 @@ ul.borderXwidth li.active:before, ul.borderXwidth li.active:after
 
     .intro-box{
         margin: 0 !important;
+    }
+
+    .svg-img{
+        margin-top: 0px;
     }
 
 }
@@ -812,4 +820,6 @@ ul.borderXwidth li.active:before, ul.borderXwidth li.active:after
     .intro h1{
         font-size: 1.8rem;
     }
+
+
 }
