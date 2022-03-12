@@ -699,9 +699,9 @@ ul.borderXwidth li.active:before, ul.borderXwidth li.active:after
 
 @media screen and (max-width: 1024px){
 
-    *{
+    /* *{
         animation: none !important;
-    }
+    } */
 
     .home , .about , .service , .portfolio , .blog , .contact
     {
